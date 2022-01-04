@@ -4,5 +4,19 @@
    <name>Search</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>9ca5d662-ae2e-4a98-94d7-545a49945275</testCaseGuid>
+   <testCaseGuid>ef0692e6-384d-4d6e-9347-59a8509b82d0</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>840382e4-cbf1-45ab-b5b5-04a40433ff42</id>
+      <masked>false</masked>
+      <name>keyword</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>05447b10-537c-48c9-abd0-247ee16f1cca</id>
+      <masked>false</masked>
+      <name>result</name>
+   </variable>
 </TestCaseEntity>
