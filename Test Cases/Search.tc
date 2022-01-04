@@ -4,18 +4,18 @@
    <name>Search</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>ef0692e6-384d-4d6e-9347-59a8509b82d0</testCaseGuid>
+   <testCaseGuid>be77b561-c881-45ed-8f50-0f58c799c186</testCaseGuid>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>840382e4-cbf1-45ab-b5b5-04a40433ff42</id>
+      <id>00d6a3d8-f2ba-4c66-957f-defea01d6b0c</id>
       <masked>false</masked>
       <name>keyword</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>05447b10-537c-48c9-abd0-247ee16f1cca</id>
+      <id>7dd31132-30c8-4460-aeba-3592f6fa2944</id>
       <masked>false</masked>
       <name>result</name>
    </variable>

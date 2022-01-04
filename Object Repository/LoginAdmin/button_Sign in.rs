@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_test</name>
+   <name>button_Sign in</name>
    <tag></tag>
-   <elementGuidId>776023ed-acba-4fb7-8ef8-c232d5b0431a</elementGuidId>
+   <elementGuidId>63402420-f8b4-42f2-9d25-120a94667918</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/main/div/article/div/div[2]/div/div/span/span</value>
+         <value>//form[@id='login-form']/fieldset/div[3]/div/button</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>span.searchPage-headingHighlight-pjR</value>
+         <value>button.action-login.action-primary</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,69 +21,64 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
+      <value>button</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>searchPage-headingHighlight-pjR</value>
+      <value>action-login action-primary</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>test</value>
+      <value>
+        Sign in
+    </value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2iR&quot;]/div[@class=&quot;main-page-279&quot;]/article[1]/div[@class=&quot;searchPage-bodyCategory-2IB&quot;]/div[@class=&quot;searchPage-productCategory-1E8&quot;]/div[@class=&quot;searchPage-headerCategory-1DR&quot;]/div[@class=&quot;searchPage-headerTitleCategory-19i&quot;]/span[@class=&quot;searchPage-countText-V2Q&quot;]/span[@class=&quot;searchPage-headingHighlight-pjR&quot;]</value>
+      <value>id(&quot;login-form&quot;)/fieldset[@class=&quot;admin__fieldset&quot;]/div[@class=&quot;form-actions&quot;]/div[@class=&quot;actions&quot;]/button[@class=&quot;action-login action-primary&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/main/div/article/div/div[2]/div/div/span/span</value>
+      <value>//form[@id='login-form']/fieldset/div[3]/div/button</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Color'])[1]/following::span[6]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::button[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Position'])[1]/preceding::span[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/following::button[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='SAR 1.00'])[1]/preceding::span[2]</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='test']/parent::*</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot your password?'])[1]/preceding::button[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div/span/span</value>
+      <value>//button</value>
    </webElementXpaths>
 </WebElementEntity>

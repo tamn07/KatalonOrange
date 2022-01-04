@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_test</name>
+   <name>h1_Dashboard</name>
    <tag></tag>
-   <elementGuidId>776023ed-acba-4fb7-8ef8-c232d5b0431a</elementGuidId>
+   <elementGuidId>35aef337-072b-48b9-b282-ef83fa268c97</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/main/div/article/div/div[2]/div/div/span/span</value>
+         <value>//body[@id='html-body']/div[2]/header/div/div/h1</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>span.searchPage-headingHighlight-pjR</value>
+         <value>h1.page-title</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,69 +21,62 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
+      <value>h1</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>searchPage-headingHighlight-pjR</value>
+      <value>page-title</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>test</value>
+      <value>Dashboard</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2iR&quot;]/div[@class=&quot;main-page-279&quot;]/article[1]/div[@class=&quot;searchPage-bodyCategory-2IB&quot;]/div[@class=&quot;searchPage-productCategory-1E8&quot;]/div[@class=&quot;searchPage-headerCategory-1DR&quot;]/div[@class=&quot;searchPage-headerTitleCategory-19i&quot;]/span[@class=&quot;searchPage-countText-V2Q&quot;]/span[@class=&quot;searchPage-headingHighlight-pjR&quot;]</value>
+      <value>id(&quot;html-body&quot;)/div[@class=&quot;page-wrapper&quot;]/header[@class=&quot;page-header row&quot;]/div[@class=&quot;page-header-hgroup col-l-8 col-m-6&quot;]/div[@class=&quot;page-title-wrapper&quot;]/h1[@class=&quot;page-title&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/main/div/article/div/div[2]/div/div/span/span</value>
+      <value>//body[@id='html-body']/div[2]/header/div/div/h1</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Color'])[1]/following::span[6]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bulk Actions Log'])[1]/following::h1[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Position'])[1]/preceding::span[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='System Messages'])[1]/following::h1[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='SAR 1.00'])[1]/preceding::span[2]</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='test']/parent::*</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='qatester'])[1]/preceding::h1[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div/span/span</value>
+      <value>//h1</value>
    </webElementXpaths>
 </WebElementEntity>

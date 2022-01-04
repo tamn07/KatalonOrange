@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login_ResendOTP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>99623c6e-be1b-499e-b024-ce325d7ce414</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>aff1d33a-80cd-4245-8cb9-e673f03fa40a</id>
+      <masked>false</masked>
+      <name>phone_number</name>
+   </variable>
+</TestCaseEntity>
