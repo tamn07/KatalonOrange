@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login_Web</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7906957b-e9a0-496b-959d-900779dc6edd</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1f76fce3-bd43-4b30-bbe8-2ca4aa84f70a</id>
+      <masked>false</masked>
+      <name>phone_number</name>
+   </variable>
+</TestCaseEntity>

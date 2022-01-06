@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_test</name>
+   <name>button_Create an Account</name>
    <tag></tag>
-   <elementGuidId>776023ed-acba-4fb7-8ef8-c232d5b0431a</elementGuidId>
+   <elementGuidId>752a603f-48cb-4a18-8226-e6bc84a21489</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/main/div/article/div/div[2]/div/div/span/span</value>
+         <value>//button[@type='submit']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>span.searchPage-headingHighlight-pjR</value>
+         <value>button.createAccount-submitButton-2W7.button-root_highPriority-qp_.button-root-2JQ.clickable-root-1G6</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,69 +21,76 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
+      <value>button</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>searchPage-headingHighlight-pjR</value>
+      <value>createAccount-submitButton-2W7 button-root_highPriority-qp_ button-root-2JQ clickable-root-1G6</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>test</value>
+      <value>Create an Account</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2iR&quot;]/div[@class=&quot;main-page-279&quot;]/article[1]/div[@class=&quot;searchPage-bodyCategory-2IB&quot;]/div[@class=&quot;searchPage-productCategory-1E8&quot;]/div[@class=&quot;searchPage-headerCategory-1DR&quot;]/div[@class=&quot;searchPage-headerTitleCategory-19i&quot;]/span[@class=&quot;searchPage-countText-V2Q&quot;]/span[@class=&quot;searchPage-headingHighlight-pjR&quot;]</value>
+      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2iR&quot;]/div[@class=&quot;main-page-279&quot;]/div[@class=&quot;createAccountPage-root-15O&quot;]/div[@class=&quot;createAccountPage-formSignUp-2ob&quot;]/form[1]/div[@class=&quot;createAccount-container-104&quot;]/div[@class=&quot;createAccount-fieldBox-1I9&quot;]/div[@class=&quot;createAccount-actions-wdW&quot;]/button[@class=&quot;createAccount-submitButton-2W7 button-root_highPriority-qp_ button-root-2JQ clickable-root-1G6&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/main/div/article/div/div[2]/div/div/span/span</value>
+      <value>//div[@id='root']/main/div/div/div/form/div/div[2]/div[5]/button</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Color'])[1]/following::span[6]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone'])[1]/following::button[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Position'])[1]/preceding::span[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create customer account'])[1]/following::button[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='SAR 1.00'])[1]/preceding::span[2]</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='test']/parent::*</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Do you have an account?'])[1]/preceding::button[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div/span/span</value>
+      <value>//div[5]/button</value>
    </webElementXpaths>
 </WebElementEntity>

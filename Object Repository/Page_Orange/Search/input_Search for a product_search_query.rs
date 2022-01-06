@@ -3,15 +3,15 @@
    <description></description>
    <name>input_Search for a product_search_query</name>
    <tag></tag>
-   <elementGuidId>f13b6f7e-9199-45bb-baac-49c0bbaaa141</elementGuidId>
+   <elementGuidId>3bd53aa7-4444-4b94-9ee7-e03719e63dbf</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='13b98201-c7d8-430f-91e1-1457c91de8c8']</value>
+         <value>//input[@id='22e1fa8e-d5b9-4afe-8174-61be66b12441']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#13b98201-c7d8-430f-91e1-1457c91de8c8</value>
+         <value>#22e1fa8e-d5b9-4afe-8174-61be66b12441</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -24,7 +24,7 @@
       <value>input</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
@@ -38,14 +38,14 @@
       <value>searchBar-inputSearchBar-1Db field-input-2wb </value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>13b98201-c7d8-430f-91e1-1457c91de8c8</value>
+      <value>22e1fa8e-d5b9-4afe-8174-61be66b12441</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
@@ -56,14 +56,14 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;13b98201-c7d8-430f-91e1-1457c91de8c8&quot;)</value>
+      <value>id(&quot;22e1fa8e-d5b9-4afe-8174-61be66b12441&quot;)</value>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='13b98201-c7d8-430f-91e1-1457c91de8c8']</value>
+      <value>//input[@id='22e1fa8e-d5b9-4afe-8174-61be66b12441']</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

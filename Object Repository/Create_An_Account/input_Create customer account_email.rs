@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Search for a product_search_query</name>
+   <name>input_Create customer account_email</name>
    <tag></tag>
-   <elementGuidId>f13b6f7e-9199-45bb-baac-49c0bbaaa141</elementGuidId>
+   <elementGuidId>e411700a-5b80-4054-854b-605f061266f6</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='13b98201-c7d8-430f-91e1-1457c91de8c8']</value>
+         <value>//input[@id='d0c10374-6c3a-4bb1-b2ea-1732cd8f44d8']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#13b98201-c7d8-430f-91e1-1457c91de8c8</value>
+         <value>#d0c10374-6c3a-4bb1-b2ea-1732cd8f44d8</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -24,59 +24,66 @@
       <value>input</value>
    </webElementProperties>
    <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>email</value>
+   </webElementProperties>
+   <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Search for a product, brand, category..</value>
+      <value>Email address</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>searchBar-inputSearchBar-1Db field-input-2wb </value>
+      <value>textInput-input-3vj field-input-2wb </value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>13b98201-c7d8-430f-91e1-1457c91de8c8</value>
+      <value>d0c10374-6c3a-4bb1-b2ea-1732cd8f44d8</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>search_query</value>
+      <value>email</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;13b98201-c7d8-430f-91e1-1457c91de8c8&quot;)</value>
+      <value>id(&quot;d0c10374-6c3a-4bb1-b2ea-1732cd8f44d8&quot;)</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='13b98201-c7d8-430f-91e1-1457c91de8c8']</value>
+      <value>//input[@id='d0c10374-6c3a-4bb1-b2ea-1732cd8f44d8']</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/main/header/div[2]/div/div[2]/div/div/form/div[2]/span/span/input</value>
+      <value>//div[@id='root']/main/div/div/div/form/div/div[2]/div[3]/span/span/input</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input</value>
+      <value>//div[3]/span/span/input</value>
    </webElementXpaths>
 </WebElementEntity>

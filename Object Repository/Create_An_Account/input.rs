@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Search for a product_search_query</name>
+   <name>input</name>
    <tag></tag>
-   <elementGuidId>f13b6f7e-9199-45bb-baac-49c0bbaaa141</elementGuidId>
+   <elementGuidId>3a7f2570-7b2a-4da2-b085-62940c93d471</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='13b98201-c7d8-430f-91e1-1457c91de8c8']</value>
+         <value>//input[@value='3']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#13b98201-c7d8-430f-91e1-1457c91de8c8</value>
+         <value>input[type=&quot;tel&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -24,59 +24,66 @@
       <value>input</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
+      <name>aria-label</name>
       <type>Main</type>
-      <value>Search for a product, brand, category..</value>
+      <value>Please enter verification code. Digit 1</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>class</name>
+      <name>autocomplete</name>
       <type>Main</type>
-      <value>searchBar-inputSearchBar-1Db field-input-2wb </value>
+      <value>off</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>type</name>
       <type>Main</type>
-      <value>13b98201-c7d8-430f-91e1-1457c91de8c8</value>
+      <value>tel</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>name</name>
+      <name>maxlength</name>
       <type>Main</type>
-      <value>search_query</value>
+      <value>1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>3</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;13b98201-c7d8-430f-91e1-1457c91de8c8&quot;)</value>
+      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2iR&quot;]/div[@class=&quot;main-page-279&quot;]/div[@class=&quot;verificationPage-container-3LA&quot;]/div[@class=&quot;verificationPage-root-2pJ&quot;]/div[@class=&quot;verificationPage-footer-cXD&quot;]/div[@class=&quot;verifyPhone-root-2Fq&quot;]/div[@class=&quot;verifyPhone-otpControl-F73&quot;]/div[1]/input[1]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='13b98201-c7d8-430f-91e1-1457c91de8c8']</value>
+      <value>//input[@value='3']</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/main/header/div[2]/div/div[2]/div/div/form/div[2]/span/span/input</value>
+      <value>//div[@id='root']/main/div/div/div/div[2]/div/div/div/input</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input</value>
+      <value>//div/input</value>
    </webElementXpaths>
 </WebElementEntity>
