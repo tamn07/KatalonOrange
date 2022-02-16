@@ -21,55 +21,51 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://pwa-orange.snaptec.co/')
 
+WebUI.maximizeWindow()
+
 WebUI.click(findTestObject('Object Repository/Checkout/span_Account'))
 
-WebUI.setText(findTestObject('Object Repository/Checkout/input_Phone_phone'), '+966 567 - 567 - 567')
+WebUI.setText(findTestObject('Checkout/input_Phone_phone'), '567 - 567 - 567')
 
 WebUI.click(findTestObject('Object Repository/Checkout/span_Send Code'))
 
-WebUI.setText(findTestObject('Object Repository/Checkout/input'), '1')
+WebUI.setText(findTestObject('Object Repository/Checkout/input'), '3691')
 
-WebUI.click(findTestObject('Object Repository/Checkout/a_Mental health medications'))
+WebUI.mouseOverOffset(findTestObject('Checkout/a_MEDICATIONS'), 5, 5)
 
-WebUI.click(findTestObject('Object Repository/Checkout/h2_zelax 10mg 30tab'))
+WebUI.click(findTestObject('Checkout/a_Mental health medications'))
+
+WebUI.click(findTestObject('Checkout/h2_ventolin  150ml syr'))
 
 WebUI.click(findTestObject('Object Repository/Checkout/button_Add to Cart'))
 
-WebUI.click(findTestObject('Object Repository/Checkout/span_1Shopping Cart'))
+WebUI.click(findTestObject('Checkout/button_Shopping Cart'))
 
-WebUI.click(findTestObject('Object Repository/Checkout/button_View Cart  Checkout'))
+WebUI.click(findTestObject('Checkout/span_View Cart  Checkout'))
 
 WebUI.click(findTestObject('Object Repository/Checkout/span_Proceed to Checkout'))
 
 WebUI.click(findTestObject('Object Repository/Checkout/button_Ship here'))
 
-WebUI.click(findTestObject('Object Repository/Checkout/h6_8 PM- 10 PM'))
+WebUI.click(findTestObject('Checkout/li_8 PM- 10 PM'))
 
-WebUI.click(findTestObject('Object Repository/Checkout/div_mada debit card_image-root-Qpm paymentM_4430c1'))
+WebUI.click(findTestObject('Checkout/div_VISA'))
+
+WebUI.scrollToElement(findTestObject('Checkout/div_Review your requests'), 3)
+
+WebUI.verifyElementText(findTestObject('Checkout/button_Place Order'), 'Place Order')
 
 WebUI.click(findTestObject('Object Repository/Checkout/button_Place Order'))
 
-WebUI.click(findTestObject('Object Repository/Checkout/div_id(katalon-rec_elementInfoDiv)'))
-
-WebUI.click(findTestObject('Object Repository/Checkout/div_id(katalon-rec_elementInfoDiv)'))
-
-WebUI.click(findTestObject('Object Repository/Checkout/div_id(katalon-rec_elementInfoDiv)'))
-
-WebUI.click(findTestObject('Object Repository/Checkout/div_id(katalon-rec_elementInfoDiv)'))
-
-WebUI.click(findTestObject('Object Repository/Checkout/div_id(katalon-rec_elementInfoDiv)'))
+WebUI.setText(findTestObject('Checkout/iframe_Card Number_card.number'), '4111 1111 1111 1111')
 
 WebUI.setText(findTestObject('Object Repository/Checkout/input_Expiry Date_wpwl-control wpwl-control-expiry'), '12 / 22')
 
-WebUI.click(findTestObject('Object Repository/Checkout/div_id(katalon-rec_elementInfoDiv)'))
-
-WebUI.click(findTestObject('Object Repository/Checkout/div_CVV_wpwl-wrapper wpwl-wrapper-cvv'))
-
-WebUI.doubleClick(findTestObject('Object Repository/Checkout/div_id(katalon-rec_elementInfoDiv)'))
-
 WebUI.setText(findTestObject('Object Repository/Checkout/input_Card holder_card.holder'), 'test')
 
-WebUI.click(findTestObject('Object Repository/Checkout/button_Pay now'))
+WebUI.setText(findTestObject('Checkout/div_CVV_wpwl-wrapper wpwl-wrapper-cvv'), '100')
 
-WebUI.click(findTestObject('Object Repository/Checkout/span_Back to home'))
+WebUI.click(findTestObject('Checkout/span_Back to home'))
+
+WebUI.closeBrowser()
 

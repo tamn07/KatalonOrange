@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_1. Sign inPhone2. Shipping addressHome _478dbc</name>
+   <tag></tag>
+   <elementGuidId>fa3b4bd0-65dd-419a-ae14-c51589201bef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.checkoutPage-container-125</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div[3]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkoutPage-container-125</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1. Sign inPhone2. Shipping addressHome deliveryYour order will be delivered to your addressYou will receive an email when the order will be shipped.Ship hereDeliver my order in storeYour order will be delivered to chosen storeYou will receive an email when the order will be available for pickup.Ship here Add your information for complete identificationKeyboard shortcutsMap DataMap data ©2022Terms of UseReport a map errorMap data ©2022test test2356, jfhRiyadh ProvinceAl Majma'ahSA35421PhoneShip to addresstest1test1test1551234test2test2test2551234testtesttest551234ridiyahsaudi123, ridiayh5671aaThừa Thiên Huếaq, hahwj2426464aaThừa Thiên Huếaq, hahwj2426464aaThừa Thiên Huếaq, hahwj2426464cghcfhj125, cvh856Al Majma'ahRiyadh Province356, jfh35421DefaultAl Majma'ahRiyadh Province356, jfh35421Edit addressShipping MethodOut Riyadh DeliveryBest Way 33.00 SARDelivery TimeSelect a time for deliveryTuesday2022/02/15Wednesday2022/02/16Thursday2022/02/17Friday2022/02/18Saturday2022/02/19Sunday2022/02/20Monday2022/02/218 AM- 10 AM10 AM- 12 AM12 AM- 2 PM2 PM- 4 PM4 PM- 6 PM6 PM- 8 PM8 PM- 10 PM10 PM- 12 PM3. Payment method Add your information for complete identificationCash On Deliverymada debit cardVISAMASTERCARDReview your requestsCart Subtotal  (inc VAT) 125.65 SARShipping (Inc VAT) 33.00 SARCash On Delivery (COD) 12.00 SARGrand Total 170.65 SARNote that the value added tax is 15% 12.62 SARUse a discount codeUse credit walletAdd a notePlace Order</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2iR  main-checkoutPage-3xz&quot;]/div[@class=&quot;main-page-279&quot;]/div[@class=&quot;checkoutPage-root-2iR  false&quot;]/div[1]/div[@class=&quot;checkoutPage-container-125&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[3]/div/div/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test category'])[1]/following::div[5]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OFFERS'])[1]/following::div[6]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div</value>
+   </webElementXpaths>
+</WebElementEntity>

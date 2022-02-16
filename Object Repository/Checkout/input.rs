@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Phone_phone</name>
+   <name>input</name>
    <tag></tag>
-   <elementGuidId>adb8b4d2-ccca-4c98-b31b-cd34ac7dc094</elementGuidId>
+   <elementGuidId>2deb4ad1-bb6f-4302-b16b-61e58541d286</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>input[name=&quot;phone&quot;]</value>
+         <key>XPATH</key>
+         <value>//input[@value='3']</value>
       </entry>
       <entry>
          <key>BASIC</key>
-         <value>//*[@placeholder = '+966 000 - 000 - 000' and @type = 'tel' and @name = 'phone']</value>
+         <value>//*[@type = 'tel']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@name='phone']</value>
+         <key>CSS</key>
+         <value>input[type=&quot;tel&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -30,16 +30,16 @@
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>class</name>
+      <name>aria-label</name>
       <type>Main</type>
-      <value>signIn-phone-35m form-control</value>
+      <value>Please enter verification code. Digit 1</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
+      <name>autocomplete</name>
       <type>Main</type>
-      <value>+966 000 - 000 - 000</value>
+      <value>off</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,39 +49,39 @@
       <value>tel</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>name</name>
+      <name>maxlength</name>
       <type>Main</type>
-      <value>phone</value>
+      <value>1</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>+966</value>
+      <value>3</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2iR&quot;]/div[@class=&quot;main-page-279 main-pageMobile-FlW&quot;]/div[@class=&quot;signInPage-root-3ap&quot;]/div[@class=&quot;signInPage-formSignUp-3F5&quot;]/form[1]/div[@class=&quot;signIn-container-3m2&quot;]/div[@class=&quot;react-tel-input&quot;]/input[@class=&quot;signIn-phone-35m form-control&quot;]</value>
+      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2iR&quot;]/div[@class=&quot;main-page-279&quot;]/div[@class=&quot;verificationPage-container-3LA&quot;]/div[@class=&quot;verificationPage-root-2pJ&quot;]/div[@class=&quot;verificationPage-footer-cXD&quot;]/div[@class=&quot;verifyPhone-root-2Fq&quot;]/div[@class=&quot;verifyPhone-otpControl-F73&quot;]/div[1]/input[1]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@name='phone']</value>
+      <value>//input[@value='3']</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/main/div/div/div/form/div/div/input</value>
+      <value>//div[@id='root']/main/div[2]/div/div/div[2]/div/div/div/input</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
