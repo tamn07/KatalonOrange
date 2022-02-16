@@ -1,93 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Phone_phone</name>
+   <name>img_Arabic_undefined image-loaded-SHk undefined</name>
    <tag></tag>
-   <elementGuidId>adb8b4d2-ccca-4c98-b31b-cd34ac7dc094</elementGuidId>
+   <elementGuidId>b7420336-9e7a-4101-92e6-c6d812eea7ec</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>input[name=&quot;phone&quot;]</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[@placeholder = '+966 000 - 000 - 000' and @type = 'tel' and @name = 'phone']</value>
+         <value>a.middleHeaderBar-imageWrapper-9nL > div.image-root-Qpm.image-container-_fN > img.undefined.image-loaded-SHk.undefined</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@name='phone']</value>
+         <value>//div[@id='root']/main/header/div[2]/div/div/a/div/img[2]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/orange-logo-dk1.png</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Logo</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>240</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>60</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>signIn-phone-35m form-control</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>+966 000 - 000 - 000</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>tel</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>phone</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>value</name>
-      <type>Main</type>
-      <value>+966</value>
+      <value>undefined image-loaded-SHk undefined</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2iR&quot;]/div[@class=&quot;main-page-279 main-pageMobile-FlW&quot;]/div[@class=&quot;signInPage-root-3ap&quot;]/div[@class=&quot;signInPage-formSignUp-3F5&quot;]/form[1]/div[@class=&quot;signIn-container-3m2&quot;]/div[@class=&quot;react-tel-input&quot;]/input[@class=&quot;signIn-phone-35m form-control&quot;]</value>
+      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2iR&quot;]/header[@class=&quot;header-closed-2dE header-root-3ce&quot;]/div[@class=&quot;middleHeaderBar-root-3ns&quot;]/div[@class=&quot;middleHeaderBar-content-_nW&quot;]/div[@class=&quot;middleHeaderBar-middleHeaderColumn-3hF&quot;]/a[@class=&quot;middleHeaderBar-imageWrapper-9nL&quot;]/div[@class=&quot;image-root-Qpm image-container-_fN&quot;]/img[@class=&quot;undefined image-loaded-SHk undefined&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
+      <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//input[@name='phone']</value>
+      <value>//div[@id='root']/main/header/div[2]/div/div/a/div/img[2]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
+      <name>xpath:img</name>
       <type>Main</type>
-      <value>//div[@id='root']/main/div/div/div/form/div/div/input</value>
+      <value>(//img[@alt='Logo'])[2]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/input</value>
+      <value>//a/div/img[2]</value>
    </webElementXpaths>
 </WebElementEntity>

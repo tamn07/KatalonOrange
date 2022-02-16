@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img__undefined image-loaded-SHk undefined</name>
+   <tag></tag>
+   <elementGuidId>13aed556-c6d2-4ad8-ba2d-1e35cfc0992a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.shippingMethod-rightColumn-1S2 > div.image-root-Qpm.image-container-_fN > img.undefined.image-loaded-SHk.undefined</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div[3]/div/div/div/div/div[2]/div[6]/ul/li/span[2]/div/img[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/selected-jqM.png</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>checkbox icon</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>18</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>18</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>undefined image-loaded-SHk undefined</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2iR  main-checkoutPage-3xz&quot;]/div[@class=&quot;main-page-279&quot;]/div[@class=&quot;checkoutPage-root-2iR  false&quot;]/div[1]/div[@class=&quot;checkoutPage-container-125&quot;]/div[@class=&quot;checkoutPage-step-2HT&quot;]/div[@class=&quot;checkoutPage-shippingAddress-1Ei&quot;]/div[@class=&quot;shippingMethod-root-t89&quot;]/ul[@class=&quot;shippingMethod-shippingMethodBody-1xP&quot;]/li[@class=&quot;shippingMethod-shippingMethodItem-uU0 shippingMethod-active-3kV&quot;]/span[@class=&quot;shippingMethod-rightColumn-1S2&quot;]/div[@class=&quot;image-root-Qpm image-container-_fN&quot;]/img[@class=&quot;undefined image-loaded-SHk undefined&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[3]/div/div/div/div/div[2]/div[6]/ul/li/span[2]/div/img[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='checkbox icon'])[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/div/img[2]</value>
+   </webElementXpaths>
+</WebElementEntity>

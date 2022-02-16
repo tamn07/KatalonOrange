@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Phone_phone</name>
+   <name>input_Expiry Date_wpwl-control wpwl-control-expiry</name>
    <tag></tag>
-   <elementGuidId>adb8b4d2-ccca-4c98-b31b-cd34ac7dc094</elementGuidId>
+   <elementGuidId>22acabd8-cacd-4030-9d88-6768a198fb99</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>input[name=&quot;phone&quot;]</value>
+         <key>XPATH</key>
+         <value>(//input[@value=''])[2]</value>
       </entry>
       <entry>
          <key>BASIC</key>
-         <value>//*[@placeholder = '+966 000 - 000 - 000' and @type = 'tel' and @name = 'phone']</value>
+         <value>//input[@placeholder = 'MM / YY' and @type = 'tel']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@name='phone']</value>
+         <key>CSS</key>
+         <value>input.wpwl-control.wpwl-control-expiry</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
@@ -32,14 +32,21 @@
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>signIn-phone-35m form-control</value>
+      <value>wpwl-control wpwl-control-expiry</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-action</name>
+      <type>Main</type>
+      <value>blur-card-expiry</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>+966 000 - 000 - 000</value>
+      <value>MM / YY</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,45 +56,52 @@
       <value>tel</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>name</name>
+      <name>aria-label</name>
       <type>Main</type>
-      <value>phone</value>
+      <value>Expiry Date</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>value</name>
+      <name>autocomplete</name>
       <type>Main</type>
-      <value>+966</value>
+      <value>off</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2iR&quot;]/div[@class=&quot;main-page-279 main-pageMobile-FlW&quot;]/div[@class=&quot;signInPage-root-3ap&quot;]/div[@class=&quot;signInPage-formSignUp-3F5&quot;]/form[1]/div[@class=&quot;signIn-container-3m2&quot;]/div[@class=&quot;react-tel-input&quot;]/input[@class=&quot;signIn-phone-35m form-control&quot;]</value>
+      <value>id(&quot;card_1112510102480&quot;)/form[@class=&quot;wpwl-form wpwl-form-card wpwl-clearfix&quot;]/div[@class=&quot;wpwl-group wpwl-group-expiry wpwl-clearfix&quot;]/div[@class=&quot;wpwl-wrapper wpwl-wrapper-expiry&quot;]/input[@class=&quot;wpwl-control wpwl-control-expiry&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@name='phone']</value>
+      <value>(//input[@value=''])[2]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/main/div/div/div/form/div/div/input</value>
+      <value>//div[@id='card_1112510102480']/form/div[3]/div[2]/input</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/input</value>
+      <value>//div[2]/input</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='card_1241833712242']/form/div[3]/div[2]/input</value>
    </webElementXpaths>
 </WebElementEntity>

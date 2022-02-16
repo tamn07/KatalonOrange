@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Checkout_COD</name>
+   <name>AddToCart_Login_Categorypage</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>756ae640-5c38-48df-8a68-8caf8f61d742</testCaseGuid>
+   <testCaseGuid>e8dc47f4-6d2d-49b6-aef3-d42a8e7a69ab</testCaseGuid>
 </TestCaseEntity>

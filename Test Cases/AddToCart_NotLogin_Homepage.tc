@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AddToCart_NotLogin_Homepage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>940b193c-2ed5-412e-b7b8-58f36eb6fa2b</testCaseGuid>
+</TestCaseEntity>
